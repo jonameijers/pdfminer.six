@@ -30,6 +30,7 @@ Features
  * Outline (TOC) extraction.
  * Tagged contents extraction.
  * Automatic layout analysis.
+ * Extract chapters by TOC
 
 
 How to Install
